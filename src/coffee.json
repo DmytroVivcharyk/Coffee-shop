@@ -1,0 +1,46 @@
+{
+    "coffee": [
+        {
+            "id": 1,
+            "url": "./img/products/71qBQnpQFYL.png",
+            "price": 6.99,
+            "title": "ROBUSTA Coffee Beans 2 kg",
+            "country": "Brazil"
+          },
+          {
+            "id": 2,
+            "url": "./img/products/91Ryk2gKejL.png",
+            "price": 8.54,
+            "title": "ARABICA Coffee Beans 2 kg",
+            "country": "Kenya"
+          },
+          {
+            "id": 3,
+            "url": "./img/products/815O9ktyfUL.png",
+            "price": 11.99,
+            "title": "ROBUSTA Coffee Beans 2 kg",
+            "country": "Columbia"
+          },
+          {
+            "id": 4,
+            "url": "./img/products/815O9ktyfUL.png",
+            "price": 8.44,
+            "title": "EXCELSA Coffee Beans 2 kg",
+            "country": "Columbia"
+          },
+          {
+            "id": 5,
+            "url": "./img/products/71qBQnpQFYL.png",
+            "price": 2000,
+            "title": "LIBERICA Coffee Beans 2 kg",
+            "country": "Brazil"
+          },
+          {
+            "id": 6,
+            "url": "../img/products/91Ryk2gKejL.png",
+            "price": 7.56,
+            "title": "EXCELSA Coffee Beans 2 kg",
+            "country": "Kenya"
+          }
+    ]
+}
